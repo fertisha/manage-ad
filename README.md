@@ -46,7 +46,8 @@ When the search window pops up, select <b>Users, Contacts, and Groups</b>. Enter
 After locating the user in the search results, right-click user's name to display the available account management options, then you can perform common account management tasks such as:
 </p>
 <p>
-  <img width="516" height="592" alt="image" src="https://github.com/user-attachments/assets/45d7766e-f0e9-447e-ae5b-21eab5417189" />
+<img width="513" height="550" alt="image" src="https://github.com/user-attachments/assets/01a524ef-8d1c-41cf-92fa-88f906076d57" />
+
 
 </p>
 <ul>
